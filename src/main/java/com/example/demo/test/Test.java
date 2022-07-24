@@ -4,5 +4,6 @@ public class Test {
 	
 	String user;
 	String password;
+	String fname;
 
 }
